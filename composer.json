@@ -1,0 +1,18 @@
+{
+    "name": "jhonatanTeixeira/imager",
+    "description": "imaging library",
+    "authors": [
+        {
+            "name": "Jhonatan Teixeira",
+            "email": "jhonatan.teixeira@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/process": "v2.3.16",
+        "symfony/console": "v2.3.16",
+        "symfony/finder": "v2.3.16",
+        "symfony/filesystem": "v2.3.16",
+        "predis/predis": "v0.8.5",
+        "jhonatanTeixeira/file-watcher" : "dev-master"
+    }
+}

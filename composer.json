@@ -1,5 +1,5 @@
 {
-    "name": "jhonatanTeixeira/imager",
+    "name": "jhonatan-teixeira/imager",
     "description": "imaging library",
     "authors": [
         {
@@ -13,6 +13,6 @@
         "symfony/finder": "v2.3.16",
         "symfony/filesystem": "v2.3.16",
         "predis/predis": "v0.8.5",
-        "jhonatanTeixeira/file-watcher" : "dev-master"
+        "jhonatan-teixeira/file-watcher" : "dev-master"
     }
 }
